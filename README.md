@@ -20,6 +20,6 @@ Para ejecutar el script en un entorno local o en Google Colab, se requiere Pytho
 pip install pandas matplotlib
 ```
 
-## Alumna 
+## Alumna
 * **Estudiante:** Farias Karen
 * **Matrícula / Legajo:** 103550
